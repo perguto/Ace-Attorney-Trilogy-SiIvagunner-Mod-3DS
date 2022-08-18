@@ -13,4 +13,4 @@ b For jailbroken 3DS: Put the `0004000000138F00` folder into the `\luma\titles\`
 - Japan:	`0004000000108800`
 (So the path to the audios will be `\luma\titles\0004000000138F00\romfs\sound\stream\BGM200.dspadpcm.bcstm` etc.)
 
-That's it. To deactivate the mod, just rename the respective folders to anything else! Or deactivate single tracks by changing their names, e. g. to `BGM200.dspadpcm.bcstm_deactivated`.
+That's it. If you did everything right, you should hear [PROSECUTOR PAPYRUS' PURSUIT!](https://www.youtube.com/watch?v=ex3-nOSNIlc&list=PLXVVSWBfLuf4GPainC6B9uPhLYzOS2I8X) in the game selection menu. To deactivate the mod, just rename the respective folders to anything else! Or deactivate single tracks by changing their names, e. g. to `BGM200.dspadpcm.bcstm_deactivated`.
